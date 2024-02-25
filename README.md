@@ -1,0 +1,4 @@
+- 👋 Hey, I’m @CentralCodingCode
+- 👀 I’m interested in coding (which is why im here)
+- 🌱 I’m currently learning JavaScript, HTML, CSS, and Python, and I plan to use them well ;)
+- 😄 I currently collab with
